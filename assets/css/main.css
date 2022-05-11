@@ -4598,7 +4598,6 @@ input, select, textarea {
 .programsAndServicesFlex{
 	padding-top: 1em;
 	display: flex;
-	justify-content: space-evenly;
 	border-bottom: 1px solid rgb(224, 148, 118);
 	margin-left: 10%;
 	margin-right: 10%;
